@@ -5,6 +5,41 @@
     <link>https://psiguilhermedias.github.io/monitor-de-revistas</link>
     <description>Aplicação para monitoramentos de novas publicações em revistas científicas</description>
     <item>
+      <title>Teste 10</title>
+      <link>https://www.example.com/teste-10</link>
+      <description>Apenas o teste número 10</description>
+    </item>
+    <item>
+      <title>Teste 9</title>
+      <link>https://www.example.com/teste-9</link>
+      <description>Apenas o teste número 9</description>
+    </item>
+    <item>
+      <title>Teste 8</title>
+      <link>https://www.example.com/teste-8</link>
+      <description>Apenas o teste número 8</description>
+    </item>
+    <item>
+      <title>Teste 7</title>
+      <link>https://www.example.com/teste-7</link>
+      <description>Apenas o teste número 7</description>
+    </item>
+    <item>
+      <title>Teste 6</title>
+      <link>https://www.example.com/teste-6</link>
+      <description>Apenas o teste número 6</description>
+    </item>
+    <item>
+      <title>Teste 5</title>
+      <link>https://www.example.com/teste-5</link>
+      <description>Apenas o teste número 5</description>
+    </item>
+    <item>
+      <title>Teste 4</title>
+      <link>https://www.example.com/teste-4</link>
+      <description>Apenas o teste número 4</description>
+    </item>
+    <item>
       <title>Teste 3</title>
       <link>https://www.example.com/teste-3</link>
       <description>Apenas o teste número 3</description>
