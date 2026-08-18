@@ -5,6 +5,31 @@
     <link>https://psiguilhermedias.github.io/monitor-de-revistas</link>
     <description>Aplicação para monitoramentos de novas publicações em revistas científicas</description>
     <item>
+      <title>Teste 15</title>
+      <link>https://www.example.com/teste-15</link>
+      <description>Apenas o teste número 15</description>
+    </item>
+    <item>
+      <title>Teste 14</title>
+      <link>https://www.example.com/teste-14</link>
+      <description>Apenas o teste número 14</description>
+    </item>
+    <item>
+      <title>Teste 13</title>
+      <link>https://www.example.com/teste-13</link>
+      <description>Apenas o teste número 13</description>
+    </item>
+    <item>
+      <title>Teste 12</title>
+      <link>https://www.example.com/teste-12</link>
+      <description>Apenas o teste número 12</description>
+    </item>
+    <item>
+      <title>Teste 11</title>
+      <link>https://www.example.com/teste-11</link>
+      <description>Apenas o teste número 11</description>
+    </item>
+    <item>
       <title>Teste 10</title>
       <link>https://www.example.com/teste-10</link>
       <description>Apenas o teste número 10</description>
@@ -29,31 +54,5 @@
       <link>https://www.example.com/teste-6</link>
       <description>Apenas o teste número 6</description>
     </item>
-    <item>
-      <title>Teste 5</title>
-      <link>https://www.example.com/teste-5</link>
-      <description>Apenas o teste número 5</description>
-    </item>
-    <item>
-      <title>Teste 4</title>
-      <link>https://www.example.com/teste-4</link>
-      <description>Apenas o teste número 4</description>
-    </item>
-    <item>
-      <title>Teste 3</title>
-      <link>https://www.example.com/teste-3</link>
-      <description>Apenas o teste número 3</description>
-    </item>
-    <item>
-      <title>Teste 2</title>
-      <link>https://www.example.com/teste-2</link>
-      <description>Apenas o teste número 2</description>
-    </item>
-    <item>
-      <title>Teste 1</title>
-      <link>https://www.example.com/teste-1</link>
-      <description>Apenas o teste número 1</description>
-    </item>
   </channel>
-
 </rss>
