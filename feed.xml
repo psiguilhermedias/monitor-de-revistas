@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Monitor de revistas</title>
+    <link>https://psiguilhermedias.github.io/monitor-de-revistas</link>
+    <description>Aplicação para monitoramentos de novas publicações em revistas científicas</description>
+    <item>
+      <title>Teste 2</title>
+      <link>https://www.example.com/teste-2</link>
+      <description>Apenas o teste número 2</description>
+    </item>
+    <item>
+      <title>Teste 1</title>
+      <link>https://www.example.com/teste-1</link>
+      <description>Apenas o teste número 1</description>
+    </item>
+  </channel>
+
+</rss>
